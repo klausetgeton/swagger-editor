@@ -3,7 +3,7 @@
   "description": "Swagger Editor",
   "version": "3.2.8",
   "main": "dist/swagger-editor.js",
-  "repository": "git@github.com:swagger-api/swagger-editor.git",
+  "repository": "git+ssh://git@github.com/klausetgeton/swagger-editor.git#code-panel-right",
   "license": "Apache-2.0",
   "contributors": [
     "(in alphabetical order)",
