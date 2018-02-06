@@ -30,10 +30,10 @@ export default class EditorLayout extends React.Component {
       <div>
         <Container className='container'>
           <SplitPaneMode>
+            <UIBaseLayout/>
             <EditorContainer
               onChange={this.onChange}
               />
-            <UIBaseLayout/>
         </SplitPaneMode>
       </Container>
     </div>
